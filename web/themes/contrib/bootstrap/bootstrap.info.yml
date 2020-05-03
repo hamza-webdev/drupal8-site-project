@@ -15,9 +15,13 @@ regions:
   content: 'Content'
   sidebar_first: 'Primary'
   sidebar_second: 'Secondary'
-  footer: 'Footer'
+  footer: 'Footer bh'
   page_top: 'Page top'
   page_bottom: 'Page bottom'
+  footer_one: 'Footer One'
+  footer_two: 'Footer Two'
+  footer_three: 'Footer Three'
+  footer_four: 'Footer Four'
 
 libraries:
   - 'bootstrap/theme'

@@ -1,4 +1,4 @@
-# Schema for the theme setting configuration file of the THEMETITLE theme.
+# Schema for the theme setting configuration file of the bootstrap_directory theme.
 
 bootstrap_directory.settings:
   type: theme_settings
